@@ -1,0 +1,22 @@
+﻿<Application x:Class="Happynowyear.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Happynowyear"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Color x:Key="BomberMainColor">#aff</Color>
+        <Color x:Key="ExplosedMainColor">#aff</Color>
+
+        <Color x:Key="FlashColor">#aff</Color>
+
+        <Color x:Key="FireYellow">#EEFF4C</Color>
+        <Color x:Key="FireBlue">#4A53FF</Color>
+        <Color x:Key="FireRed">#ff0000</Color>
+        <Color x:Key="FireWhite">#aff</Color>
+        
+        <Color x:Key="FireGreen">#67f14d</Color>
+        <Color x:Key="FireLightBlue">#21ffd4</Color>
+        <Color x:Key="FirePink">#ff64c1</Color>
+        <Color x:Key="FireOrange">#ffb53d</Color>
+    </Application.Resources>
+</Application>

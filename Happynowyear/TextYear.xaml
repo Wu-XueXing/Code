@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="Happynowyear.TextYear"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Happynowyear"
+             mc:Ignorable="d" 
+             d:DesignHeight="180" d:DesignWidth="180">
+    <Canvas>
+        <local:FlashExplosed Canvas.Left="70" Canvas.Top="45"/>
+        <local:FlashExplosed Canvas.Left="80" Canvas.Top="50"/>
+        <local:FlashExplosed Canvas.Left="90" Canvas.Top="48"/>
+        <local:FlashExplosed Canvas.Left="100" Canvas.Top="44"/>
+        <local:FlashExplosed Canvas.Left="110" Canvas.Top="46"/>
+        <local:FlashExplosed Canvas.Left="60" Canvas.Top="50"/>
+
+        <local:FlashExplosed Canvas.Left="28" Canvas.Top="59"/>
+        <local:FlashExplosed Canvas.Left="40" Canvas.Top="48"/>
+        <local:FlashExplosed Canvas.Left="54" Canvas.Top="38"/>
+        <local:FlashExplosed Canvas.Left="60" Canvas.Top="25"/>
+
+        <local:FlashExplosed Canvas.Left="70" Canvas.Top="70"/>
+        <local:FlashExplosed Canvas.Left="85" Canvas.Top="68"/>
+        <local:FlashExplosed Canvas.Left="87" Canvas.Top="85"/>
+        <local:FlashExplosed Canvas.Left="100" Canvas.Top="74"/>
+        <local:FlashExplosed Canvas.Left="68" Canvas.Top="88"/>
+
+        <local:FlashExplosed Canvas.Left="30" Canvas.Top="105"/>
+        <local:FlashExplosed Canvas.Left="84" Canvas.Top="100"/>
+        <local:FlashExplosed Canvas.Left="102" Canvas.Top="98"/>
+        <local:FlashExplosed Canvas.Left="120" Canvas.Top="104"/>
+        <local:FlashExplosed Canvas.Left="135" Canvas.Top="106"/>
+        <local:FlashExplosed Canvas.Left="60" Canvas.Top="100"/>
+
+        <local:FlashExplosed Canvas.Left="80" Canvas.Top="114"/>
+        <local:FlashExplosed Canvas.Left="83" Canvas.Top="135"/>
+        <local:FlashExplosed Canvas.Left="82" Canvas.Top="158"/>
+    </Canvas>
+</UserControl>
